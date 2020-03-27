@@ -1,73 +1,70 @@
-{"title": "Python爬虫进阶：Scrapy框架教程", "time": "12课时", "price": "￥4.67"}
-{"title": "程序员必备算法课！（揭秘淘宝购物车算法）", "time": "5课时", "price": "￥11.20"}
-{"title": "大数据工程师新手必学实战：手把手教你做一份大数据行业分析报告", "time": "7课时", "price": "￥8.00"}
-{"title": "MySQL数据库入门实战精讲", "time": "50课时", "price": "￥0.78"}
-{"title": "Spring Cloud微服务--入门到精通", "time": "51课时", "price": "￥1.10"}
-{"title": "Go语言打造博客与积分管理系统", "time": "25课时", "price": "￥2.24"}
-{"title": "零基础搞定Python数据分析与挖掘", "time": "82课时", "price": "￥1.50"}
-{"title": "150讲轻松搞定Python网络爬虫", "time": "147课时", "price": "￥0.67"}
-{"title": "Python零基础轻松从入门到实战", "time": "36课时", "price": "￥0.81"}
-{"title": "实用主义学Python（小白也容易上手的Python实用案例）", "time": "45课时", "price": "￥2.20"}
-{"title": "玩转JAVA一：JAVA入门视频课程", "time": "69课时", "price": "￥0.01"}
-{"title": "玩转Linux：常用命令实例指南", "time": "33课时", "price": "￥0.88"}
-{"title": "Google开发专家带你学 AI：入门到实战（Keras/Tensorflow）（附源码）", "time": "49课时", "price": "￥2.02"}
-{"title": "Python+OpenCV计算机视觉", "time": "57课时", "price": "￥0.18"}
-{"title": "一学即懂的计算机视觉（第一季）", "time": "32课时", "price": "￥1.47"}
-{"title": "简明预测分析教程(Python版)", "time": "95课时", "price": "￥0.99"}
-{"title": "springboot2.0企业中台实战之权限统一管理与应用统一授权 (dubbo分布式系统实战)", "time": "63课时", "price": "￥1.63"}
-{"title": "Java软件开发工程师全套课程（笔记+项目实战案例）", "time": "787课时", "price": "￥0.60"}
-{"title": "数据挖掘基础：零基础学Python数据分析", "time": "68课时", "price": "￥0.74"}
-{"title": "初级玩转Linux+Ubuntu(嵌入式开发基础课程)", "time": "22课时", "price": "￥0.05"}
-{"title": "软件测试2小时入门", "time": "23课时", "price": "￥0.04"}
-{"title": "TensorFlow 2.0 三大项目实战", "time": "18课时", "price": "￥2.61"}
-{"title": "PyTorch从入门到实战一次学会", "time": "34课时", "price": "￥1.38"}
-{"title": "Python入门视频精讲", "time": "37课时", "price": "￥0.92"}
-{"title": "", "time": "23课时", "price": "￥5.17"}
-{"title": "手把手实现Java图书管理系统（附源码）", "time": "11课时", "price": "￥2.45"}
-{"title": "SpringBoot2.0企业中台~分布式系统实战成神之路", "time": "157课时", "price": "￥1.68"}
-{"title": "玩转Pycharm", "time": "34课时", "price": "￥0.29"}
-{"title": "快速入门Android开发 视频 教程 android studio", "time": "82课时", "price": "￥0.33"}
-{"title": "一站式学习Java框架技术（Maven+SSM+SpringBoot+Shiro+Redis+Nginx+项目实战）", "time": "182课时", "price": "￥0.88"}
-{"title": "从零开始自然语言处理", "time": "70课时", "price": "￥0.94"}
-{"title": "玩转Python-Python3基础入门", "time": "83课时", "price": "￥0.11"}
-{"title": "玩转JAVA二：JAVA面向对象", "time": "62课时", "price": "￥0.45"}
-{"title": "SpringBoot实战教程：SpringBoot入门及前后端分离项目开发", "time": "44课时", "price": "￥1.50"}
-{"title": "linux“开发工具三剑客”速成攻略", "time": "132课时", "price": "￥1.83"}
-{"title": "Python编程规范：让你的代码脚下生风", "time": "12课时", "price": "￥1.50"}
-{"title": "YOLOv3目标检测实战：训练自己的数据集", "time": "23课时", "price": "￥2.39"}
-{"title": "Web前端开发全套学习（笔记+项目案例）", "time": "425课时", "price": "￥0.44"}
-{"title": "小程序开发全家桶", "time": "237课时", "price": "￥0.35"}
-{"title": "java后台+微信小程序 实现完整的点餐系统", "time": "91课时", "price": "￥0.73"}
-{"title": "董付国老师Python全栈学习优惠套餐", "time": "274课时", "price": "￥2.77"}
-{"title": "Java大数据培训学校全套教程-JavaScript基础（20）", "time": "38课时", "price": "￥0.03"}
-{"title": "软件测试入门、SQL、性能测试、测试管理工具", "time": "81课时", "price": "￥0.23"}
-{"title": "高并发系统设计精讲", "time": "18课时", "price": "￥1.56"}
-{"title": "Python核心技术+爬虫[专题]（笔记+案例）", "time": "102课时", "price": "￥0.83"}
-{"title": "HTML+CSS+JavaScript入门精讲", "time": "41课时", "price": "￥0.46"}
-{"title": "2019 AI开发者大会", "time": "45课时", "price": "￥10.53"}
-{"title": "Python全栈开发详解", "time": "887课时", "price": "￥0.64"}
-{"title": "携手STM32CubeMX玩转STM32", "time": "48课时", "price": "￥2.98"}
-{"title": ".net core快速开发框架", "time": "22课时", "price": "￥7.27"}
-{"title": "Java8零基础入门视频教程", "time": "46课时", "price": "￥0.02"}
-{"title": "深度学习图像处理之垃圾分类", "time": "14课时", "price": "￥1.29"}
-{"title": "", "time": "100课时", "price": "￥0.62"}
-{"title": "人工智能基础—Numpy科学计算库", "time": "31课时", "price": "￥0.29"}
-{"title": "C语言--视频精讲", "time": "96课时", "price": "￥0.39"}
-{"title": "C++编程基础", "time": "98课时", "price": "￥0.81"}
-{"title": "Java分布式开发（套餐系列）", "time": "139课时", "price": "￥1.02"}
-{"title": "", "time": "80课时", "price": "￥0.20"}
-{"title": "老孙的游戏课：第1篇 Unity入门", "time": "27课时", "price": "￥0.41"}
-{"title": "基于SSM技术的在线商城系统[实战视频]", "time": "22课时", "price": "￥0.91"}
-{"title": "线性回归与非线性回归分析简明教程（python版）-全程干货无废话", "time": "3课时", "price": "￥1.67"}
-{"title": "轻松搞定Spring全家桶（初识篇）", "time": "24课时", "price": "￥1.63"}
-{"title": "轻松入门Tensorflow", "time": "9课时", "price": "￥2.00"}
-{"title": "深度学习之图像识别 核心技术与案例实战", "time": "17课时", "price": "￥0.53"}
-{"title": "基于海思35xx上nnie加速引擎进行yolov3模型推理", "time": "18课时", "price": "￥4.72"}
-{"title": "30分钟学会Visual Studio 2017", "time": "10课时", "price": "￥1.10"}
-{"title": "深度学习原理+项目实战+算法详解+主流框架（套餐）", "time": "856课时", "price": "￥1.11"}
-{"title": "MVC5+EF6之巧租房系统", "time": "74课时", "price": "￥0.34"}
-{"title": "21天通关Python（仅视频课）", "time": "76课时", "price": "￥0.99"}
-{"title": "企业员工角色权限管理平台（SpringBoot2.0+Mybatis+Shiro+Vue）", "time": "70课时", "price": "￥1.69"}
-{"title": "MATLAB图像处理", "time": "40课时", "price": "￥0.25"}
-{"title": "讲给入门者的深度学习", "time": "37课时", "price": "￥0.27"}
-{"title": "Java程序员专业学习入门到实战", "time": "707课时", "price": "￥0.85"}
+Python爬虫进阶：Scrapy框架教程 ￥4.67 12课时
+程序员必备算法课！（揭秘淘宝购物车算法） ￥11.20 5课时
+大数据工程师新手必学实战：手把手教你做一份大数据行业分析报告 ￥8.00 7课时
+MySQL数据库入门实战精讲 ￥0.78 50课时
+Spring Cloud微服务--入门到精通 ￥1.10 51课时
+Go语言打造博客与积分管理系统 ￥2.24 25课时
+零基础搞定Python数据分析与挖掘 ￥1.50 82课时
+150讲轻松搞定Python网络爬虫 ￥0.67 147课时
+Python零基础轻松从入门到实战 ￥0.81 36课时
+实用主义学Python（小白也容易上手的Python实用案例） ￥2.20 45课时
+玩转JAVA一：JAVA入门视频课程 ￥0.01 69课时
+Google开发专家带你学 AI：入门到实战（Keras/Tensorflow）（附源码） ￥2.02 49课时
+玩转Linux：常用命令实例指南 ￥0.88 33课时
+Python+OpenCV计算机视觉 ￥0.18 57课时
+一学即懂的计算机视觉（第一季） ￥1.47 32课时
+简明预测分析教程(Python版) ￥0.99 95课时
+springboot2.0企业中台实战之权限统一管理与应用统一授权 (dubbo分布式系统实战) ￥1.63 63课时
+Java软件开发工程师全套课程（笔记+项目实战案例） ￥0.60 787课时
+软件测试2小时入门 ￥0.04 23课时
+数据挖掘基础：零基础学Python数据分析 ￥0.74 68课时
+初级玩转Linux+Ubuntu(嵌入式开发基础课程) ￥0.05 22课时
+TensorFlow 2.0 三大项目实战 ￥2.61 18课时
+PyTorch从入门到实战一次学会 ￥1.38 34课时
+Python入门视频精讲 ￥0.92 37课时
+手把手实现Java图书管理系统（附源码） ￥2.45 11课时
+SpringBoot2.0企业中台~分布式系统实战成神之路 ￥1.68 157课时
+玩转Pycharm ￥0.29 34课时
+快速入门Android开发 视频 教程 android studio ￥0.33 82课时
+一站式学习Java框架技术（Maven+SSM+SpringBoot+Shiro+Redis+Nginx+项目实战） ￥0.88 182课时
+从零开始自然语言处理 ￥0.94 70课时
+玩转Python-Python3基础入门 ￥0.11 83课时
+玩转JAVA二：JAVA面向对象 ￥0.45 62课时
+SpringBoot实战教程：SpringBoot入门及前后端分离项目开发 ￥1.50 44课时
+linux“开发工具三剑客”速成攻略 ￥1.83 132课时
+Python编程规范：让你的代码脚下生风 ￥1.50 12课时
+YOLOv3目标检测实战：训练自己的数据集 ￥2.39 23课时
+Web前端开发全套学习（笔记+项目案例） ￥0.44 425课时
+小程序开发全家桶 ￥0.35 237课时
+java后台+微信小程序 实现完整的点餐系统 ￥0.73 91课时
+董付国老师Python全栈学习优惠套餐 ￥2.77 274课时
+Java大数据培训学校全套教程-JavaScript基础（20） ￥0.03 38课时
+软件测试入门、SQL、性能测试、测试管理工具 ￥0.23 81课时
+高并发系统设计精讲 ￥1.56 18课时
+Python核心技术+爬虫[专题]（笔记+案例） ￥0.83 102课时
+HTML+CSS+JavaScript入门精讲 ￥0.46 41课时
+2019 AI开发者大会 ￥10.53 45课时
+Python全栈开发详解 ￥0.64 887课时
+携手STM32CubeMX玩转STM32 ￥2.98 48课时
+.net core快速开发框架 ￥7.27 22课时
+Java8零基础入门视频教程 ￥0.02 46课时
+深度学习图像处理之垃圾分类 ￥1.29 14课时
+人工智能基础—Numpy科学计算库 ￥0.29 31课时
+C语言--视频精讲 ￥0.39 96课时
+C++编程基础 ￥0.81 98课时
+Java分布式开发（套餐系列） ￥1.02 139课时
+老孙的游戏课：第1篇 Unity入门 ￥0.41 27课时
+基于SSM技术的在线商城系统[实战视频] ￥0.91 22课时
+线性回归与非线性回归分析简明教程（python版）-全程干货无废话 ￥1.67 3课时
+轻松搞定Spring全家桶（初识篇） ￥1.63 24课时
+轻松入门Tensorflow ￥2.00 9课时
+深度学习之图像识别 核心技术与案例实战 ￥0.53 17课时
+基于海思35xx上nnie加速引擎进行yolov3模型推理 ￥4.72 18课时
+30分钟学会Visual Studio 2017 ￥1.10 10课时
+深度学习原理+项目实战+算法详解+主流框架（套餐） ￥1.11 856课时
+MVC5+EF6之巧租房系统 ￥0.34 74课时
+21天通关Python（仅视频课） ￥0.99 76课时
+企业员工角色权限管理平台（SpringBoot2.0+Mybatis+Shiro+Vue） ￥1.69 70课时
+MATLAB图像处理 ￥0.25 40课时
+讲给入门者的深度学习 ￥0.27 37课时
+Java程序员专业学习入门到实战 ￥0.85 707课时

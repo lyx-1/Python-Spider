@@ -21,3 +21,4 @@ class CourseItem(scrapy.Item):
     title = scrapy.Field()
     time = scrapy.Field()
     price = scrapy.Field()
+    pic = scrapy.Field()

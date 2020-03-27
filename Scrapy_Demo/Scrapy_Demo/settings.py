@@ -66,10 +66,12 @@ DOWNLOADER_MIDDLEWARES = {
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
 ITEM_PIPELINES = {
     'Scrapy_Demo.pipelines.ScrapyDemoPipeline': 300,
+    'Scrapy_Demo.pipelines.ImagePipeline': 302,
      'Scrapy_Demo.pipelines.CoursePipeline': 301,
 }
 
 FILE_PATH = './csdn_courses.txt'
+IMAGES_STORE = './image'
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
 #AUTOTHROTTLE_ENABLED = True

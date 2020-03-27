@@ -20,6 +20,7 @@ class CsdnSpider(scrapy.Spider):
             item['title'] = course.xpath('.//span[@class="title ellipsis-2"]/text()').extract_first().strip()
             item['time'] = course.xpath('.//span[@class="course_lessons"]/text()').extract_first()
             item['price'] = course.xpath('.//span[@class="num"]/em/text()').extract_first()
+            item['pic'] = course.xpath('.//img/@src').extract_first()
             yield item
 
         url = response.url
